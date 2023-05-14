@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/iemummy/travisTest/issues"
   },
-  "homepage": "https://github.com/iemummy/travisTest#readme"
+  "homepage": "https://github.com/iemummy/travisTest#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
